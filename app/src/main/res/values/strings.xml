@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Five Cards Helper</string>
+    <string name="score">Score</string>
+    <string name="person_4">Person 4</string>
+    <string name="_0">0</string>
+    <string name="person_1">Person 1</string>
+    <string name="person_2">Person 2</string>
+    <string name="person_3">Person 3</string>
+    <string name="submit">Submit</string>
+</resources>
